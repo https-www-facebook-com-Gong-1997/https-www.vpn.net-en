@@ -1,8 +1,5 @@
-From 8ec72f5f823edaea9e564207b9999d75a8de80bd Mon Sep 17 00:00:00 2001
-From: Orion Hodson <oth@google.com>
-Date: Tue, 02 Jun 2020 13:47:29 +0100
-Subject: [PATCH] Update to use nativehelper/JNIPlatformHelp.h
-
+From 8ec72f5f823edaea9e564207b9999d75a8de80bd
+ID: Phong
 Reflects refactoring of JNI helper code that depends on private
 methods within libnativehelper.
 
