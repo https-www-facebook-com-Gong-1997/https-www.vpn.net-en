@@ -1,0 +1,29 @@
+From 8ec72f5f823edaea9e564207b9999d75a8de80bd Mon Sep 17 00:00:00 2001
+From: Orion Hodson <oth@google.com>
+Date: Tue, 02 Jun 2020 13:47:29 +0100
+Subject: [PATCH] Update to use nativehelper/JNIPlatformHelp.h
+
+Reflects refactoring of JNI helper code that depends on private
+methods within libnativehelper.
+
+Bug: 151443957
+Test: Treehugger
+Change-Id: I2273fc26bb91886f3a94105cc3c12824fd0ded8e
+Merged-In: I2273fc26bb91886f3a94105cc3c12824fd0ded8e
+Exempt-From-Owner-Approval: cherry pick
+(cherry picked from commit 04f051c926ee5b3a475243f1b162de4fe687ee37)
+---
+
+diff --git a/libdataloader/DataLoaderConnector.cpp b/libdataloader/DataLoaderConnector.cpp
+index 6c4a693..c0ade23 100644
+--- a/libdataloader/DataLoaderConnector.cpp
++++ b/libdataloader/DataLoaderConnector.cpp
+@@ -16,7 +16,7 @@
+ #define LOG_TAG "incfs-dataloaderconnector"
+ 
+ #include <android-base/logging.h>
+-#include <nativehelper/JNIHelp.h>
++#include <nativehelper/JNIPlatformHelp.h>
+ #include <nativehelper/scoped_local_ref.h>
+ #include <nativehelper/scoped_utf_chars.h>
+ #include <sys/stat.h>
