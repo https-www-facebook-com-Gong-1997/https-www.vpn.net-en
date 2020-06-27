@@ -3,11 +3,8 @@ ID: Phong
 Reflects refactoring of JNI helper code that depends on private
 methods within libnativehelper.
 Sunday 28 June 2020
-Bug : 90 95
-Monday 29 June 2020
-Bug : 
-Tueday 30 June 2020
-Bug : 32 61
+Bug : 51 72 90
+Sunday 28 June 2020
 Change-Id: I2273fc26bb91886f3a94105cc3c12824fd0ded8e
 Merged-In: I2273fc26bb91886f3a94105cc3c12824fd0ded8e
 Exempt-From-Owner-Approval: cherry pick
