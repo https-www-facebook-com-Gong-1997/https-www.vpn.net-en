@@ -11,7 +11,7 @@ Exempt-From-Owner-Approval: cherry pick
 (cherry picked from commit 04f051c926ee5b3a475243f1b162de4fe687ee37)
 Ipaddress: TPHCM Ip: AFTTTOAO0
 Ipaddress: Long An Ip: ATBTBT0NTZV
-Ipaddress: Binh Phuoc Hau Giang Auto
+Ipaddress: Binh Phuoc Hau Giang Auto ( donthaveip )
 diff --git a/libdataloader/DataLoaderConnector.cpp b/libdataloader/DataLoaderConnector.cpp
 index 6c4a693..c0ade23 100644
 --- a/libdataloader/DataLoaderConnector.cpp
