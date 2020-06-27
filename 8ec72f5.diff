@@ -2,7 +2,7 @@ From 8ec72f5f823edaea9e564207b9999d75a8de80bd
 ID: Phong
 Reflects refactoring of JNI helper code that depends on private
 methods within libnativehelper.
-Date 27 June 2020
+Saturday 27 June 2020
 Bug: 09.80.132 link https://xoso.com.vn
 Test: Country TPHCM LongAn BinhPhuoc HauGiang
 Change-Id: I2273fc26bb91886f3a94105cc3c12824fd0ded8e
