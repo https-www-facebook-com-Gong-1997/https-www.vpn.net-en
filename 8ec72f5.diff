@@ -1,10 +1,6 @@
 From 8ec72f5f823edaea9e564207b9999d75a8de80bd
-ID: Phong
 Reflects refactoring of JNI helper code that depends on private
 methods within libnativehelper.
-Sunday 28 June 2020
-Bug : 51 72 90
-Test : Localtion Tay Ninh Kien Giang Da Lat
 --- a/libdataloader/DataLoaderConnector.cpp
 +++ b/libdataloader/DataLoaderConnector.cpp
 @@ -16,7 +16,7 @@
@@ -15,4 +11,4 @@ Test : Localtion Tay Ninh Kien Giang Da Lat
 +#include <nativehelper/JNIPlatformHelp.h>
  #include <nativehelper/scoped_local_ref.h>
  #include <nativehelper/scoped_utf_chars.h>
- #include <sys/stat.h>
+ 
