@@ -4,6 +4,5 @@
  " Link " : https://xoso.com.vn/xo-so-mien-nam.path1-html
  " Localtion " : test enjoy at night and next day i'm real time my team  "
  " Country " : " Ben Tre , Vung Tau , Bac Lieu "
- " Bug " : " wait "
+ " Bug " : " A- 610185 (fishing) @@ -.- game happy dont hate it's me !! "
  " Cover " : " My Teacher "
- 
