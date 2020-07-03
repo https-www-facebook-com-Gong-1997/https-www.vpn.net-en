@@ -63,67 +63,23 @@ Install [Stylus](https://add0n.com/stylus.html) for either [Firefox](https://add
 💾 [Refined GitHub](https://github.com/sindresorhus/refined-github)<br>
 💾 [ZenHub](https://www.zenhub.io/)<br>
 💾 [Notifications Preview for GitHub](https://github.com/tanmayrajani/notifications-preview-github)<br>
-
 ## Available Syntax Highlighting Themes ([Demo](https://stylishthemes.github.io/GitHub-Dark/))
-
-| Theme                      |   GitHub    |  CodeMirror  |    Jupyter   |
-|----------------------------|:-----------:|:------------:|:------------:|
-| Ambiance                   |      ✔️     |      ✔️     |      ❌      |
-| Base16 Ocean Dark          |      ❌     |      ✔️     |      ✔️      |
-| Chaos                      |      ✔️     |      ❌     |      ❌      |
-| Clouds Midnight            |      ✔️     |      ❌     |      ❌      |
-| Cobalt                     |      ✔️     |      ✔️     |      ❌      |
-| Dracula                    |      ❌     |      ✔️     |      ✔️      |
-| GitHub Dark                |      ✔️     |      ❌     |      ✔️      |
-| Idle Fingers               |      ✔️     |      ❌     |      ✔️      |
-| Kr Theme                   |      ✔️     |      ❌     |      ❌      |
-| Material                   |   [🚧][1]   |      ✔️     |      ❌      |
-| Merbivore                  |      ✔️     |      ❌     |      ❌      |
-| Merbivore Soft             |      ✔️     |      ❌     |      ❌      |
-| Mono Industrial            |      ✔️     |      ❌     |      ❌      |
-| Mono Industrial Clear      |      ✔️     |      ❌     |      ❌      |
-| Monokai                    |      ✔️     |      ✔️     |      ✔️      |
-| Monokai Spacegray Eighties |      ✔️     |      ✔️     |      ✔️      |
-| Obsidian                   |      ✔️     |      ❌     |      ✔️      |
-| One Dark                   |      ✔️     |      ✔️     |      ❌      |
-| Pastel on Dark             |      ✔️     |      ✔️     |      ✔️      |
-| Railscasts                 |      ✔️     |      ✔️     |      ✔️      |
-| Solarized Dark             |      ✔️     |      ✔️     |      ✔️      |
-| Terminal                   |      ✔️     |      ❌     |      ❌      |
-| Tomorrow Night             |      ✔️     |      ❌     |      ✔️      |
-| Tomorrow Night Blue        |      ✔️     |      ❌     |      ✔️      |
-| Tomorrow Night Bright      |      ✔️     |      ✔️     |      ✔️      |
-| Tomorrow Night Eighties    |      ✔️     |      ✔️     |      ✔️      |
-| Twilight (**default**)     |      ✔️     |      ✔️     |      ✔️      |
-| Vibrant Ink                |      ✔️     |      ✔️     |      ❌      |
-
 - Support for [Codemirror](https://codemirror.net/demo/theme.html) and [Jupyter notebook](https://github.com/sujitpal/statlearning-notebooks/blob/master/src/chapter2.ipynb) syntax highlighting themes as listed above.
-- Please provide a pull request if you have or want to create a missing theme, or help complete the theme(s) designated with a construction symbol (🚧).
-
+- Please provide a pull request if you have or want to create a missing theme, or help complete the theme(s) designated with a Monstruction symbol (🚧).
 [1]:https://github.com/StylishThemes/GitHub-Dark/pull/568
-
 ## Notes
-
 - If you're using a custom domain for GitHub Enterprise, be sure to include it through a `@-moz-document` rule (Firefox) or add it to the `Applies to` section in (Chrome).
-
 ## Contributions
-
 If you would like to contribute to this repository, please...
-
 1. 👓 Read the [contribution guidelines](./.github/CONTRIBUTING.md).
 1. [![fork](https://user-images.githubusercontent.com/136959/42383736-c4cb0db8-80fd-11e8-91ca-12bae108bccc.png) Fork](https://github.com/StylishThemes/GitHub-Dark/fork) or [![cloud-download](https://user-images.githubusercontent.com/136959/42401932-9ee9cae0-813d-11e8-8691-16e29a85d3b9.png) download](https://github.com/StylishThemes/GitHub-Dark/archive/master.zip) this repository.
 1. 👌 Create a pull request!
-
 ## Development
-
 First, make sure you have these installed:
-
 - [`node`](https://nodejs.org): version 12 or greater
 - [`yarn`](https://classic.yarnpkg.com/en/docs/install/): version 1
 - `make`: comes with Unix-like OS, on Windows use [this](https://stackoverflow.com/a/54086635/808699)
-
 To get started, run `make deps` after which you can use the following `make` targets:
-
 - `make build`: Runs the `generate` and `usercss` tasks.
 - `make usercss`: Build the [Usercss](https://github.com/openstyles/stylus/wiki/Usercss) style.
 - `make themes`: Parse the theme files and combine them into minified styles in the `themes` directory.
@@ -135,8 +91,6 @@ To get started, run `make deps` after which you can use the following `make` tar
 - `make minor`: Increment the minor version number, update file headers, create a commit and push it to `origin`.
 - `make major`: Increment the major version number, update file headers, create a commit and push it to `origin`.
 - `make update`: Update and install dependencies.
-- 
 Thanks to all that have [contributed](./AUTHORS) so far!
-
 And thanks for the shoutout on the [JS Party](https://changelog.com/jsparty/20#transcript-71) podcast!
 ![.github/workflows/python-app.yml](https://github.com/LPLGong/Storie/workflows/.github/workflows/python-app.yml/badge.svg?branch=master&event=issues)
