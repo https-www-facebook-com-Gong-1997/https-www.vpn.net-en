@@ -5,9 +5,9 @@ name: Python application
 
 on:
   push:
-    branches: [ master ]
+    branches: [ LPLGong path-1 ]
   pull_request:
-    branches: [ master ]
+    branches: [ LPLGong path-1 ]
 
 jobs:
   build:
