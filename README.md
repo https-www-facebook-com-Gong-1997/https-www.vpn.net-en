@@ -1,4 +1,4 @@
-# https-xoso.com.vn-xo-so-mien-nam [ Advanced ]
+[ Advanced ]
  <IGIEXNEIB/IIBIEETXZB/............/>.
  <IIFLNIILNT/........./........./>.
  <ITBTTTLTGN/IGIERNEBB/IGTGTXFLN/>.
