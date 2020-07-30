@@ -1,8 +1,8 @@
 [ Advanced ]
- <IGIEXNEIB/IIBIEETXZB/............/>.
+ <AGIEXNEIB/IIBIEETXZB/............/>.
  <IIFLNIILNT/........./........./>.
- <ITBTTTLTGN/IGIERNEBB/IGTGTXFLN/>.
- <IGIEGTRINB/.....
- <........./........./IGILGSETF/>.
- <IGILBXLTB/ITBTBTRFTGN/........./........./>.
- <IZIXEENLL/........./........./>.
+ <ITBTTTLTGN/AGIERNEBB/AGTGTXFLN/>.
+ <AGIEGTRINB/.....
+ <........./........./AGILGSETF/>.
+ <AGILBXLTB/ITBTBTRFTGN/........./........./>.
+ <AGIXEENLL/........./........./>.
