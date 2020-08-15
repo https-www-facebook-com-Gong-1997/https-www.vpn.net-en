@@ -1,4 +1,4 @@
-[ Advanced ] August
+[ Advanced ] August 
  <AGIEXNEIB/AIBIEETXZB/............/>.
  <AGILTELBL/........./........./>.
  <ATBTTTLTGN/AGIERNEBB/AGTGTXFLN/>. (............./AIXARXENLL/AIXIRXNRLN)
