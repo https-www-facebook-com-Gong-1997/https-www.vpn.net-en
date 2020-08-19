@@ -1,8 +1,8 @@
-[ Advanced ] August 
- <AGIEXNEIB/AIBIEETXZB/............/>.
- <AGILTELBL/........./........./>.
+August 2020
+ <AG/IES/NE/IB./AIB/IEE/TS/AB/............>
+ <AG/ILT/EL/BL/........./........./>.
  <ATBTTTLTGN/AGIERNEBB/AGTGTXFLN/>. (............./AIXARXENLL/AIXIRXNRLN)
- <I.TIETVRSE>
+ <AG/IEA/FO/SE>
  <AIFLNIILNT/........./AGILGSETF/>.
  <AGILBXLTB/ITBTBTRFTGN/........./........./>.
  <AGIXEENLL/AGIEGTRINB........./>
